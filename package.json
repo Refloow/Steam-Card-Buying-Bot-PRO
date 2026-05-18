@@ -1,0 +1,33 @@
+{
+  "name": "steam-card-buying-bot-pro",
+  "version": "1.0.0",
+  "description": "Buying cards has never been easier with steam card buying bot pro, run your own buyout service, offering users instant gems, tf2 keys for their spare cards!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pm2 start myapp.json",
+    "stop": "pm2 kill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Steam-Card-Buying-Bot-PRO.git"
+  },
+  "keywords": [
+    "Steam",
+    "Trade",
+    "SteamTradeBot",
+    "TradingCards",
+    "buyout",
+    "steambot",
+    "stgeamcardbot",
+    "Gems",
+    "buyingBot",
+  ],
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2026",
+  "bugs": {
+    "url": "https://github.com/Refloow/Steam-Card-Buying-Bot-PRO/issues"
+  },
+  "homepage": "https://github.com/Refloow/Steam-Card-Buying-Bot-PRO",
+}
