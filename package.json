@@ -21,7 +21,7 @@
     "steambot",
     "stgeamcardbot",
     "Gems",
-    "buyingBot",
+    "buyingBot"
   ],
   "author": "Veljko Vuckovic",
   "license": "MIT",
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/Refloow/Steam-Card-Buying-Bot-PRO/issues"
   },
-  "homepage": "https://github.com/Refloow/Steam-Card-Buying-Bot-PRO",
+  "homepage": "https://github.com/Refloow/Steam-Card-Buying-Bot-PRO"
 }
