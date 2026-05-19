@@ -6,9 +6,9 @@ Born from our trusted, industry-standard bot architecture, the Steam-Card-Buying
 # The Philosophy
 *Buying-Bot-PRO is your automated supplier, acting as the ultimate funnel for your Steam business:*
 
-📥 **Acquisition Made Easy**: Grow your bot's inventory on autopilot. Let the community bring the stock to you while the bot handles the math, the trades, and the payouts instantly.
-🌍 **Global Reach**: Break language barriers. With a deeply integrated, dynamic localization system, your bot speaks your customers' language natively, expanding your market worldwide.
-🎯 **Precision Pricing**: Never overpay. Fine-tune your buying rates with the most advanced, granular pricing matrix available, giving you absolute control over your margins.
+- 📥 **Acquisition Made Easy**: Grow your bot's inventory on autopilot. Let the community bring the stock to you while the bot handles the math, the trades, and the payouts instantly.
+- 🌍 **Global Reach**: Break language barriers. With a deeply integrated, dynamic localization system, your bot speaks your customers' language natively, expanding your market worldwide.
+- 🎯 **Precision Pricing**: Never overpay. Fine-tune your buying rates with the most advanced, granular pricing matrix available, giving you absolute control over your margins.
 
 ## Key Features:
 - **Advanced Dynamic Pricing Matrix**: Set custom buying rates based on **Item Type** (Regular/Foil/Booster), **Set Size** (5 through 15), and **Marketability** (Marketable vs. Non-Marketable).
