@@ -4,7 +4,7 @@
 Born from our trusted, industry-standard bot architecture, the Steam-Card-Buying-Bot-PRO is a next-generation platform engineered specifically for vendors who need to source stock effortlessly. Instead of manually buying items or dealing with complex trades, this software completely automates purchasing Regular Cards, Foil Cards, and Booster Packs from your users in exchange for Gems and TF2 Keys, not complete sets, but individual cards from users in bulk at a huge discount. 
 
 # The Philosophy
-*Buying-Bot-PRO is your automated supplier, acting as the ultimate funnel for your Steam business:*
+*Steam-Card-Buying-Bot-PROis your automated supplier, acting as the ultimate funnel for your Steam business:*
 
 - 📥 **Acquisition Made Easy**: Grow your bot's inventory on autopilot. Let the community bring the stock to you while the bot handles the math, the trades, and the payouts instantly.
 - 🌍 **Global Reach**: Break language barriers. With a deeply integrated, dynamic localization system, your bot speaks your customers' language natively, expanding your market worldwide.
