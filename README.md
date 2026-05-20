@@ -3,7 +3,8 @@
 **The ultimate commercial-grade software for automating your inventory acquisition. Build, scale, and restock your Steam level-up service with absolute precision and maximum global reach.**
 Born from our trusted, industry-standard bot architecture, the Steam-Card-Buying-Bot-PRO is a next-generation platform engineered specifically for vendors who need to source stock effortlessly. Instead of manually buying items or dealing with complex trades, this software completely automates purchasing Regular Cards, Foil Cards, and Booster Packs from your users in exchange for Gems and TF2 Keys, not complete sets, but individual cards from users in bulk at a huge discount. 
 
-Contact:
+# Contact:
+For inqueries, open up a discord ticket or contact refloow on discord
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
 
@@ -31,7 +32,8 @@ Contact:
   <img width="1149" height="743" alt="image" src="https://github.com/user-attachments/assets/8f8a8d7c-0ed7-40eb-9780-cdc67e9de9ac" />
 
 
-  Contact:
+  # Contact:
+  For inqueries, open up a discord ticket or contact refloow on discord
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
 
