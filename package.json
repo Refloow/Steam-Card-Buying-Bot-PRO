@@ -1,6 +1,6 @@
 {
   "name": "steam-card-buying-bot-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Buying cards has never been easier with steam card buying bot pro, run your own buyout service, offering users instant gems, tf2 keys for their spare cards!",
   "main": "index.js",
   "scripts": {
